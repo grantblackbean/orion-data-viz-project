@@ -1,0 +1,18 @@
+# figure and axis styles
+figure.facecolor: white
+# font styles
+axes.titlesize : 24
+axes.labelsize : 16
+xtick.labelsize : 12
+ytick.labelsize : 12
+font.family: Helvetica
+
+
+# tick styles
+xtick.direction: inout
+ytick.direction: inout
+xtick.major.width: 2
+ytick.major.width: 2
+
+# color styles
+
